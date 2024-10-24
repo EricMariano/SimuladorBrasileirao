@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+:root{
+    background-color: #1d1d1d;
+}
+
+body {
+    font-family: 'Roboto';
+}
+
+.tabela-main {
+    text-align: center;
+    max-width: 950px;
+    margin: 0 auto;
+    align-items: center;
+    background-color: #1d1d1d;
+    color: #fff;
+    display: flex;
+}
+
+.tabela {
+    width: 600px;
+}
+
+.header{
+    text-align: center;
+}
+
+td {
+    padding: 7px;
+}
+
+th {
+    padding: 7px;
+    background-color: #4b4b4b3c; /*Cor do Cabeçalho */
+}
+
+
+tr:nth-child(odd) {
+    background-color: #1d1d1d; /*Cor das colunas impares*/
+}
+
+tr:nth-child(even) {
+    background-color: #4b4b4b3c; /*Cor das colunas pares*/
+}
+
+.botao-modo {
+    font-weight: 620;
+    display: flex;
+    background-color: #ffffff;
+    color: #000;
+    border-radius: 5px;
+    padding: 8px;
+    box-shadow: none; /* Remove qualquer sombra */
+    border: none;
+    position: absolute;
+    top: 20px;
+    right: 300px;
+}
+
+.botao-modo:hover {
+    cursor: pointer;
+    color: white;
+    background-color: rgb(132, 131, 131);
+    border-color: #3e3e3e;
+}
+
+.botao-simular {
+    font-weight: 620;
+    display: flex;
+    background-color: #4d8d0d;
+    color: #fff;
+    border-radius: 5px;
+    padding: 8px;
+    box-shadow: none; /* Remove qualquer sombra */
+    border: none;
+    position: absolute;
+    top: 20px;
+    right: 395px;
+}
+
+.botao-simular:hover {
+    cursor: pointer;
+    background-color: #55a406;
+    color: white;
+    border-color: #3e3e3e;
+}
