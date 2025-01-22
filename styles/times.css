@@ -10,192 +10,192 @@
     } 
  }
  
- #CAM {
-     .img{
-      width: 13px;
-      justify-content: center;
-      vertical-align: middle;
-      padding-right: 3px;
-      
-     } 
- }
- 
- #CAP {
-     .img{
-      width: 12px;
-      justify-content: center;
-      vertical-align: middle;
-      padding-right: 3px;
-      
-     } 
- }
- 
- #BAH {
-     .img{
-      width: 14px;
-      justify-content: center;
-      vertical-align: middle;
-      padding-right: 3px;
-      
-     } 
- }
- 
- #BOT {
-     .img{
-      width: 15px;
-      justify-content: center;
-      vertical-align: middle;
-      padding-right: 3px;
-      
-     } 
- }
- 
- #BRG {
-     .img{
-      width: 15px;
-      justify-content: center;
-      vertical-align: middle;
-      padding-right: 3px;
-      
-     } 
- }
- 
- #COR {
-     .img{
-      width: 15px;
-      justify-content: center;
-      vertical-align: middle;
-      padding-right: 3px;
-      
-     } 
- }
- 
- #CRI {
-     .img{
-      width: 15px;
-      justify-content: center;
-      vertical-align: middle;
-      padding-right: 3px;
-      
-     } 
- }
- 
- #CRU {
-     .img{
-      width: 15px;
-      justify-content: center;
-      vertical-align: middle;
-      padding-right: 3px;
-      
-     } 
- }
- 
- #CUI {
-     .img{
-      width: 15px;
-      justify-content: center;
-      vertical-align: middle;
-      padding-right: 3px;
-      
-     } 
- }
- 
- #FLA {
-     .img{
-      width: 15px;
-      justify-content: center;
-      vertical-align: middle;
-      padding-right: 3px;
-      
-     } 
- }
- 
- #FLU {
-     .img{
-      width: 15px;
-      justify-content: center;
-      vertical-align: middle;
-      padding-right: 3px;
-      
-     } 
- }
- 
- #FOR {
-     .img{
-      width: 15px;
-      justify-content: center;
-      vertical-align: middle;
-      padding-right: 3px;
-      
-     } 
- }
- 
- #GRE {
-     .img{
-      width: 15px;
-      justify-content: center;
-      vertical-align: middle;
-      padding-right: 3px;
-      
-     } 
- }
- 
- #INT {
-     .img{
-      width: 18px;
-      justify-content: center;
-      vertical-align: middle;
-      padding-right: 1px;
-      
-     } 
- }
- 
- #JUV {
-     .img{
-      width: 17px;
-      justify-content: center;
-      vertical-align: middle;
-      padding-right: 1px;
-      
-     } 
- }
- 
- #PAL {
-     .img{
-      width: 15px;
-      justify-content: center;
-      vertical-align: middle;
-      padding-right: 3px;
-      
-     } 
- }
- 
- #SPO {
-     .img{
-      width: 15px;
-      justify-content: center;
-      vertical-align: middle;
-      padding-right: 3px;
-      
-     } 
- }
- 
- #VAS {
-     .img{
-      width: 15px;
-      justify-content: center;
-      vertical-align: middle;
-      padding-right: 3px;
-      
-     } 
- }
- 
- #VIT {
-     .img{
-      width: 15px;
-      justify-content: center;
-      vertical-align: middle;
-      padding-right: 3px;
-      
-     } 
- }
+#CAM {
+    .img{
+    width: 13px;
+    justify-content: center;
+    vertical-align: middle;
+    padding-right: 3px;
+    
+    } 
+}
+
+#CAP {
+    .img{
+    width: 12px;
+    justify-content: center;
+    vertical-align: middle;
+    padding-right: 3px;
+    
+    } 
+}
+
+#BAH {
+    .img{
+    width: 14px;
+    justify-content: center;
+    vertical-align: middle;
+    padding-right: 3px;
+    
+    } 
+}
+
+#BOT {
+    .img{
+    width: 15px;
+    justify-content: center;
+    vertical-align: middle;
+    padding-right: 3px;
+    
+    } 
+}
+
+#BRG {
+    .img{
+    width: 15px;
+    justify-content: center;
+    vertical-align: middle;
+    padding-right: 3px;
+    
+    } 
+}
+
+#COR {
+    .img{
+    width: 15px;
+    justify-content: center;
+    vertical-align: middle;
+    padding-right: 3px;
+    
+    } 
+}
+
+#CRI {
+    .img{
+    width: 15px;
+    justify-content: center;
+    vertical-align: middle;
+    padding-right: 3px;
+    
+    } 
+}
+
+#CRU {
+    .img{
+    width: 15px;
+    justify-content: center;
+    vertical-align: middle;
+    padding-right: 3px;
+    
+    } 
+}
+
+#CUI {
+    .img{
+    width: 15px;
+    justify-content: center;
+    vertical-align: middle;
+    padding-right: 3px;
+    
+    } 
+}
+
+#FLA {
+    .img{
+    width: 15px;
+    justify-content: center;
+    vertical-align: middle;
+    padding-right: 3px;
+    
+    } 
+}
+
+#FLU {
+    .img{
+    width: 15px;
+    justify-content: center;
+    vertical-align: middle;
+    padding-right: 3px;
+    
+    } 
+}
+
+#FOR {
+    .img{
+    width: 15px;
+    justify-content: center;
+    vertical-align: middle;
+    padding-right: 3px;
+    
+    } 
+}
+
+#GRE {
+    .img{
+    width: 15px;
+    justify-content: center;
+    vertical-align: middle;
+    padding-right: 3px;
+    
+    } 
+}
+
+#INT {
+    .img{
+    width: 18px;
+    justify-content: center;
+    vertical-align: middle;
+    padding-right: 1px;
+    
+    } 
+}
+
+#JUV {
+    .img{
+    width: 17px;
+    justify-content: center;
+    vertical-align: middle;
+    padding-right: 1px;
+    
+    } 
+}
+
+#PAL {
+    .img{
+    width: 15px;
+    justify-content: center;
+    vertical-align: middle;
+    padding-right: 3px;
+    
+    } 
+}
+
+#SPO {
+    .img{
+    width: 15px;
+    justify-content: center;
+    vertical-align: middle;
+    padding-right: 3px;
+    
+    } 
+}
+
+#VAS {
+    .img{
+    width: 15px;
+    justify-content: center;
+    vertical-align: middle;
+    padding-right: 3px;
+    
+    } 
+}
+
+#VIT {
+    .img{
+    width: 15px;
+    justify-content: center;
+    vertical-align: middle;
+    padding-right: 3px;
+    
+    } 
+}

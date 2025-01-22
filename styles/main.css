@@ -1,31 +1,19 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
 
-:root{
-    background-color: #fff;
-}
+/* Light Mode */
 
 body {
     font-family: 'Roboto';
+    background-color: #ffffff;
+  color: #000000;
+    transition: background 0.3s ease, color 0.3s ease;
 }
 
 .tabela-main {
-    text-align: center;
-    max-width: 950px;
-    margin: 0 auto;
-    align-items: center;
-    background-color: #fff;
-    color: #000;
     display: flex;
-}
-
-.tabela-main.darkmode {
-    text-align: center;
-    max-width: 950px;
-    margin: 0 auto;
+    justify-content: center;
     align-items: center;
-    background-color: #1d1d1d;
-    color: #fff;
-    display: flex;
+    margin-top: 50px;
 }
 
 .tabela {
@@ -42,11 +30,8 @@ td {
 
 th {
     padding: 7px;
-    background-color: #4b4b4b3c; /*Cor do Cabeçalho */
+    background-color: #4b4b4b3c;
 }
-
-
-
 
 tr:nth-child(odd) {
     background-color: #ffffff; /*Cor das colunas impares*/
@@ -56,7 +41,7 @@ tr:nth-child(even) {
     background-color: #4b4b4b3c; /*Cor das colunas pares*/
 }
 
-.botao-modo {
+.btn-dark-mode {
     font-weight: 620;
     display: flex;
     background-color: #3e3e3e;
@@ -70,14 +55,14 @@ tr:nth-child(even) {
     right: 300px;
 }
 
-.botao-modo:hover {
+.btn-dark-mode:hover {
     cursor: pointer;
     color: white;
-    background-color: rgb(132, 131, 131);
+    background-color: rgb(78, 78, 78);
     border-color: #3e3e3e;
 }
 
-.botao-simular {
+.btn-simulate {
     font-weight: 620;
     display: flex;
     background-color: #4d8d0d;
@@ -91,9 +76,40 @@ tr:nth-child(even) {
     right: 395px;
 }
 
-.botao-simular:hover {
+.btn-simulate:hover {
     cursor: pointer;
     background-color: #55a406;
     color: white;
     border-color: #3e3e3e;
+}
+
+.games {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-right: 3px;
+}
+
+/* Dark Mode */
+.dark-mode {
+    background-color: #121212;
+    color: #ffffff;
+}
+
+.dark-mode tr:nth-child(odd) {
+    background-color: #1e1e1e; /* Cor das colunas ímpares */
+}
+
+.dark-mode tr:nth-child(even) {
+    background-color: #292929; /* Cor das colunas pares */
+}
+
+.dark-mode .btn-dark-mode {
+    background-color: #ebebeb;
+    color: #000;
+}
+
+.dark-mode .btn-dark-mode:hover{
+    background-color: #6b6b6b;
+    color: #fff;
 }
