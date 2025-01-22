@@ -1,17 +1,15 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
-
 /* Light Mode */
-
 body {
     font-family: 'Roboto';
     background-color: #ffffff;
-  color: #000000;
+    color: #000000;
     transition: background 0.3s ease, color 0.3s ease;
 }
 
 .tabela-main {
     display: flex;
     justify-content: center;
+    text-align: center;
     align-items: center;
     margin-top: 50px;
 }
@@ -110,6 +108,6 @@ tr:nth-child(even) {
 }
 
 .dark-mode .btn-dark-mode:hover{
-    background-color: #6b6b6b;
-    color: #fff;
+    background-color: #aaaaaa;
+    color: #000;
 }
