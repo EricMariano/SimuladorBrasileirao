@@ -46,7 +46,7 @@ tr:nth-child(even) {
     color: #fff;
     border-radius: 5px;
     padding: 8px;
-    box-shadow: none; /* Remove qualquer sombra */
+    box-shadow: none;
     border: none;
     position: absolute;
     top: 20px;
@@ -67,7 +67,7 @@ tr:nth-child(even) {
     color: #fff;
     border-radius: 5px;
     padding: 8px;
-    box-shadow: none; /* Remove qualquer sombra */
+    box-shadow: none;
     border: none;
     position: absolute;
     top: 20px;
